@@ -1,0 +1,64 @@
+@font-face {
+	font-family: 'OpenSans';
+	src: url('../fonts/OpenSans/OpenSans-Regular.eot');
+	src: url('../fonts/OpenSans/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/OpenSans/OpenSans-Regular.woff') format('woff'),
+	url('../fonts/OpenSans/OpenSans-Regular.ttf')  format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'OpenSans';
+	src: url('../fonts/OpenSans/OpenSans-Semibold.eot');
+	src: url('../fonts/OpenSans/OpenSans-Semibold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/OpenSans/OpenSans-Semibold.woff') format('woff'),
+	url('../fonts/OpenSans/OpenSans-Semibold.ttf')  format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Alegreya';
+	src: url('../fonts/Alegreya/Alegreya-Bold.eot');
+	src: url('../fonts/Alegreya/Alegreya-Bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Alegreya/Alegreya-Bold.woff') format('woff'),
+	url('../fonts/Alegreya/Alegreya-Bold.ttf')  format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Alegreya';
+	src: url('../fonts/Alegreya/Alegreya-Italic.eot');
+	src: url('../fonts/Alegreya/Alegreya-Italic.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Alegreya/Alegreya-Italic.woff') format('woff'),
+	url('../fonts/Alegreya/Alegreya-Italic.ttf')  format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Miama';
+	src: url('../fonts/Miama/Miama.eot');
+	src: url('../fonts/Miama/Miama.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Miama/Miama.woff') format('woff'),
+	url('../fonts/Miama/Miama.otf')  format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
